@@ -26,3 +26,7 @@ Here are some ideas to get you started:
 <span><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&amp;logo=MySQL&amp;logoColor=white"></span>
 
 
+안녕하세요 soon입니다
+
+헤헤
+
