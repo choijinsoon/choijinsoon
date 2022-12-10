@@ -22,12 +22,12 @@ Here are some ideas to get you started:
 <span><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=GitHub&amp;logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/java-007396?style=flat-square&amp;logo=java&amp;logoColor=white"></span>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&amp;logo=linux&amp;logoColor=black">
-<img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&amp;logo=mariaDB&amp;logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&amp;logo=MySQL&amp;logoColor=white">
-<img src="https://img.shields.io/badge/ORACLE-F80000?style=flat-square&amp;logo=oracle&amp;logoColor=white">
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&amp;logo=Spring&amp;logoColor=white">
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&amp;logo=Visual Studio Code&amp;logoColor=white">
+<span><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black"></span>
+<span><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&amp;logo=linux&amp;logoColor=black"></span>
+<span><img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&amp;logo=mariaDB&amp;logoColor=white"></span>
+<span><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&amp;logo=MySQL&amp;logoColor=white"></span>
+<span><img src="https://img.shields.io/badge/ORACLE-F80000?style=flat-square&amp;logo=oracle&amp;logoColor=white"></span>
+<span><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&amp;logo=Spring&amp;logoColor=white"></span>
+<span><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&amp;logo=Visual Studio Code&amp;logoColor=white"></span>
 
 
