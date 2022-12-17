@@ -34,6 +34,8 @@ Hello, I'm Jinsoon Choi. <br>
 <h2> Infra </h2>
 - Linux, Ubuntu <br>
 - VMware
+<br>
 
 <h2> Tools </h2>
 - Figma, Notion <br>
+<br>
