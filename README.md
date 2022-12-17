@@ -1,5 +1,3 @@
-
-
 <!--
 **choijinsoon/choijinsoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,18 +13,27 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?height=300&text=Welcome!&desc=My%20Page~&animation=fadeIn)
-
-<span><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white"></span>
-<span><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&amp;logo=css3&amp;logoColor=white"></span>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black">
-<span><img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&amp;logo=java&amp;logoColor=white"></span>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&amp;logo=Spring&amp;logoColor=white">
-<span><img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&amp;logo=mariaDB&amp;logoColor=white"></span>
-<span><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&amp;logo=MySQL&amp;logoColor=white"></span>
 
 
+<h1> 소개 </h1>
 
+Hello, I'm Jinsoon Choi. <br>
 
- I’m currently learning SpringBoot & Vue.js
+안녕하세요. 최진순입니다. <br>
 
+<h1> 기술 스택 </h1>
+<h2> Frontend </h2>
+- HTML5, CSS, JavaScript <br>
+<br>
+
+<h2> Backend </h2>
+- Java, Java Spring Boot, JPA <br>
+- MySQL
+<br>
+
+<h2> Infra </h2>
+- Linux, Ubuntu <br>
+- VMware
+
+<h2> Tools </h2>
+- Figma, Notion <br>
