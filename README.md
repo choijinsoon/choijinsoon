@@ -27,7 +27,7 @@ Hello, I'm Jinsoon Choi. <br>
 <br>
 
 <h2> Backend </h2>
-- Java, Java Spring Boot, JPA <br>
+- Java, Java Spring Boot, Mybatis <br>
 - MySQL
 <br>
 
